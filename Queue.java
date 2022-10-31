@@ -1,4 +1,3 @@
-package CS;
 
 public class Queue<T> implements QueueInterface<T>
 {

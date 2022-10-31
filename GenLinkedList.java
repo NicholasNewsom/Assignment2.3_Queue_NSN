@@ -1,4 +1,4 @@
-package CS;
+
 
 public class GenLinkedList <T>
 {

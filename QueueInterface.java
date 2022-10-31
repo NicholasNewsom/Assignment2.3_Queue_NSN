@@ -1,4 +1,3 @@
-package CS;
 
 /**
 An interface for the ADT queue.   

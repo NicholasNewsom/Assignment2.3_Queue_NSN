@@ -1,4 +1,4 @@
-package CS;
+
 
 public class EmptyQueueException extends RuntimeException
 {
